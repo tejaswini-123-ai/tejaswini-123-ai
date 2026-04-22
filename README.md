@@ -1,16 +1,51 @@
-## Hi there 👋
+# 👋 Hi, I'm Tejaswini  
 
-<!--
-**tejaswini-123-ai/tejaswini-123-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 BCA Student | QA & Developer  
 
-Here are some ideas to get you started:
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📌 About Me  
+✨ Passionate about software development, testing, and building real-world applications.  
+💡 Strong understanding of programming, system design, and software engineering concepts.  
+
+---
+
+## 🛠️ Tech Stack  
+- 🚀 Python  
+- 🚀 C++  
+- 🚀 HTML  
+- 🚀 CSS  
+- 🚀 SQL  
+- 🚀 Manual Testing  
+
+---
+
+## 📂 Projects  
+- 🔹 Resume Web App using Streamlit  
+- 🔹 Banking System (SRS, DFD, ER Diagram)  
+- 🔹 Railway Reservation System  
+
+---
+
+## 📊 GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+
+---
+
+## 🔗 Connect with Me  
+- 📧 your-email@gmail.com  
+- 💼 https://linkedin.com/in/your-linkedin-link  
+- 🐙 https://github.com/your-username  
+
+---
+
+## 🎯 Career Goal  
+💡 To start my career in IT industry and grow as a skilled professional in development and testing.  
+
+---
+
+⭐ If you like this profile, don't forget to star repositories!
