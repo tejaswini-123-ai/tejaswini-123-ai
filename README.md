@@ -29,15 +29,8 @@
 
 ---
 
-## 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
-
----
-
 ## 🔗 Connect with Me  
-- 📧 your-email@gmail.com  
+- 📧 tejaswinik1905@gmail.com  
 - 💼 https://linkedin.com/in/your-linkedin-link  
 - 🐙 https://github.com/your-username  
 
