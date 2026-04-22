@@ -25,7 +25,6 @@
 ## 📂 Projects  
 - 🔹 Resume Web App using Streamlit  
 - 🔹 Banking System (SRS, DFD, ER Diagram)  
-- 🔹 Railway Reservation System  
 
 ---
 
